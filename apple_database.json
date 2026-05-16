@@ -1,0 +1,30 @@
+[
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "chip": "A17 Pro",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "tagline": "Titanium. So strong. So light.",
+    "themeColor": "#4B4C50",
+    "specs": {
+      "Display": "6.1\" Super Retina XDR",
+      "Camera": "48MP Main",
+      "Material": "Aerospace Titanium"
+    }
+  },
+  {
+    "id": "mac-studio-m2",
+    "name": "Mac Studio",
+    "chip": "M2 Ultra",
+    "releaseYear": "2023",
+    "category": "Mac",
+    "tagline": "Empower station.",
+    "themeColor": "#007AFF",
+    "specs": {
+      "CPU": "24-core",
+      "RAM": "Up to 192GB",
+      "Ports": "Thunderbolt 4"
+    }
+  }
+]
