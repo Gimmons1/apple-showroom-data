@@ -6,6 +6,7 @@ def build_apple_database():
     response = requests.get(url)
     data = response.json()
     raw_list = data if isinstance(data, list) else list(data.values())
+
     
     apple_devices = []
     
