@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "iPad13,20",
+    "name": "Unreleased iPad",
+    "chip": "A14",
+    "releaseYear": "Sconosciuto",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad13,20/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "",
+      "Model ID": "iPad13,20"
+    }
+  },
+  {
+    "id": "iPad13,21",
+    "name": "Unreleased iPad",
+    "chip": "A14",
+    "releaseYear": "Sconosciuto",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad13,21/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "",
+      "Model ID": "iPad13,21"
+    }
+  },
+  {
+    "id": "iPhone18,5",
+    "name": "iPhone 17e",
+    "chip": "A19",
+    "releaseYear": "2026",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone18,5/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2026-03-11",
+      "Model ID": "iPhone18,5"
+    }
+  },
+  {
+    "id": "iPad15,7",
+    "name": "iPad (A16) Wi-Fi",
+    "chip": "A16",
+    "releaseYear": "2025",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad15,7/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2025-03-12",
+      "Model ID": "iPad15,7"
+    }
+  },
+  {
+    "id": "iPad15,8",
+    "name": "iPad (A16) Wi-Fi + Cellular",
+    "chip": "A16",
+    "releaseYear": "2025",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad15,8/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2025-03-12",
+      "Model ID": "iPad15,8"
+    }
+  },
+  {
+    "id": "iPhone17,5",
+    "name": "iPhone 16e",
+    "chip": "A18",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone17,5/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2025-02-28",
+      "Model ID": "iPhone17,5"
+    }
+  },
+  {
+    "id": "iPhone18,1",
+    "name": "iPhone 17 Pro",
+    "chip": "A19 Pro",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone18,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2025-09-19",
+      "Model ID": "iPhone18,1"
+    }
+  },
+  {
+    "id": "iPhone18,2",
+    "name": "iPhone 17 Pro Max",
+    "chip": "A19 Pro",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone18,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2025-09-19",
+      "Model ID": "iPhone18,2"
+    }
+  },
+  {
+    "id": "iPhone18,3",
+    "name": "iPhone 17",
+    "chip": "A19",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone18,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2025-09-19",
+      "Model ID": "iPhone18,3"
+    }
+  },
+  {
+    "id": "iPhone18,4",
+    "name": "iPhone Air",
+    "chip": "A19 Pro",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone18,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2025-09-19",
+      "Model ID": "iPhone18,4"
+    }
+  },
+  {
+    "id": "iPhone17,1",
+    "name": "iPhone 16 Pro",
+    "chip": "A18 Pro",
+    "releaseYear": "2024",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone17,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2024-09-20",
+      "Model ID": "iPhone17,1"
+    }
+  },
+  {
+    "id": "iPhone17,2",
+    "name": "iPhone 16 Pro Max",
+    "chip": "A18 Pro",
+    "releaseYear": "2024",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone17,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2024-09-20",
+      "Model ID": "iPhone17,2"
+    }
+  },
+  {
+    "id": "iPhone17,3",
+    "name": "iPhone 16",
+    "chip": "A18",
+    "releaseYear": "2024",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone17,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2024-09-20",
+      "Model ID": "iPhone17,3"
+    }
+  },
+  {
+    "id": "iPhone17,4",
+    "name": "iPhone 16 Plus",
+    "chip": "A18",
+    "releaseYear": "2024",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone17,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2024-09-20",
+      "Model ID": "iPhone17,4"
+    }
+  },
+  {
+    "id": "iPhone15,4",
+    "name": "iPhone 15",
+    "chip": "A16",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone15,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2023-09-22",
+      "Model ID": "iPhone15,4"
+    }
+  },
+  {
+    "id": "iPhone15,5",
+    "name": "iPhone 15 Plus",
+    "chip": "A16",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone15,5/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2023-09-22",
+      "Model ID": "iPhone15,5"
+    }
+  },
+  {
+    "id": "iPhone16,1",
+    "name": "iPhone 15 Pro",
+    "chip": "A17 Pro",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone16,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2023-09-22",
+      "Model ID": "iPhone16,1"
+    }
+  },
+  {
+    "id": "iPhone16,2",
+    "name": "iPhone 15 Pro Max",
+    "chip": "A17 Pro",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone16,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2023-09-22",
+      "Model ID": "iPhone16,2"
+    }
+  },
+  {
+    "id": "iPad13,18",
+    "name": "iPad (10th generation) Wi-Fi",
+    "chip": "A14",
+    "releaseYear": "2022",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad13,18/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2022-10-26",
+      "Model ID": "iPad13,18"
+    }
+  },
+  {
+    "id": "iPad13,19",
+    "name": "iPad (10th generation) Wi-Fi + Cellular",
+    "chip": "A14",
+    "releaseYear": "2022",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad13,19/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2022-10-26",
+      "Model ID": "iPad13,19"
+    }
+  },
+  {
+    "id": "iPhone14,6",
+    "name": "iPhone SE (3rd generation)",
+    "chip": "A15",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone14,6/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2022-03-18",
+      "Model ID": "iPhone14,6"
+    }
+  },
+  {
+    "id": "iPhone14,7",
+    "name": "iPhone 14",
+    "chip": "A15",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone14,7/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2022-09-16",
+      "Model ID": "iPhone14,7"
+    }
+  },
+  {
+    "id": "iPhone14,8",
+    "name": "iPhone 14 Plus",
+    "chip": "A15",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone14,8/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2022-10-07",
+      "Model ID": "iPhone14,8"
+    }
+  },
+  {
+    "id": "iPhone15,2",
+    "name": "iPhone 14 Pro",
+    "chip": "A16",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone15,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2022-09-16",
+      "Model ID": "iPhone15,2"
+    }
+  },
+  {
+    "id": "iPhone15,3",
+    "name": "iPhone 14 Pro Max",
+    "chip": "A16",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone15,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2022-09-16",
+      "Model ID": "iPhone15,3"
+    }
+  },
+  {
+    "id": "iPad12,1",
+    "name": "iPad (9th generation) Wi-Fi",
+    "chip": "A13",
+    "releaseYear": "2021",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad12,1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2021-09-24",
+      "Model ID": "iPad12,1"
+    }
+  },
+  {
+    "id": "iPad12,2",
+    "name": "iPad (9th generation) Wi-Fi + Cellular",
+    "chip": "A13",
+    "releaseYear": "2021",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad12,2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2021-09-24",
+      "Model ID": "iPad12,2"
+    }
+  },
+  {
+    "id": "iPhone14,2",
+    "name": "iPhone 13 Pro",
+    "chip": "A15",
+    "releaseYear": "2021",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone14,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2021-09-24",
+      "Model ID": "iPhone14,2"
+    }
+  },
+  {
+    "id": "iPhone14,3",
+    "name": "iPhone 13 Pro Max",
+    "chip": "A15",
+    "releaseYear": "2021",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone14,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2021-09-24",
+      "Model ID": "iPhone14,3"
+    }
+  },
+  {
+    "id": "iPhone14,4",
+    "name": "iPhone 13 mini",
+    "chip": "A15",
+    "releaseYear": "2021",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone14,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2021-09-24",
+      "Model ID": "iPhone14,4"
+    }
+  },
+  {
+    "id": "iPhone14,5",
+    "name": "iPhone 13",
+    "chip": "A15",
+    "releaseYear": "2021",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone14,5/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2021-09-24",
+      "Model ID": "iPhone14,5"
+    }
+  },
+  {
+    "id": "iPad11,6",
+    "name": "iPad (8th generation) Wi-Fi",
+    "chip": "A12",
+    "releaseYear": "2020",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad11,6/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2020-09-18",
+      "Model ID": "iPad11,6"
+    }
+  },
+  {
+    "id": "iPad11,7",
+    "name": "iPad (8th generation) Wi-Fi + Cellular",
+    "chip": "A12",
+    "releaseYear": "2020",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad11,7/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2020-09-18",
+      "Model ID": "iPad11,7"
+    }
+  },
+  {
+    "id": "iPhone12,8",
+    "name": "iPhone SE (2nd generation)",
+    "chip": "A13",
+    "releaseYear": "2020",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone12,8/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2020-04-24",
+      "Model ID": "iPhone12,8"
+    }
+  },
+  {
+    "id": "iPhone13,1",
+    "name": "iPhone 12 mini",
+    "chip": "A14",
+    "releaseYear": "2020",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone13,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2020-11-13",
+      "Model ID": "iPhone13,1"
+    }
+  },
+  {
+    "id": "iPhone13,2",
+    "name": "iPhone 12",
+    "chip": "A14",
+    "releaseYear": "2020",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone13,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2020-10-23",
+      "Model ID": "iPhone13,2"
+    }
+  },
+  {
+    "id": "iPhone13,3",
+    "name": "iPhone 12 Pro",
+    "chip": "A14",
+    "releaseYear": "2020",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone13,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2020-10-23",
+      "Model ID": "iPhone13,3"
+    }
+  },
+  {
+    "id": "iPhone13,4",
+    "name": "iPhone 12 Pro Max",
+    "chip": "A14",
+    "releaseYear": "2020",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone13,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2020-11-13",
+      "Model ID": "iPhone13,4"
+    }
+  },
+  {
+    "id": "iPad7,11",
+    "name": "iPad (7th generation) Wi-Fi",
+    "chip": "A10",
+    "releaseYear": "2019",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad7,11/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2019-09-25",
+      "Model ID": "iPad7,11"
+    }
+  },
+  {
+    "id": "iPad7,12",
+    "name": "iPad (7th generation) Wi-Fi + Cellular",
+    "chip": "A10",
+    "releaseYear": "2019",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad7,12/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2019-09-25",
+      "Model ID": "iPad7,12"
+    }
+  },
+  {
+    "id": "iPhone12,1",
+    "name": "iPhone 11",
+    "chip": "A13",
+    "releaseYear": "2019",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone12,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2019-09-20",
+      "Model ID": "iPhone12,1"
+    }
+  },
+  {
+    "id": "iPhone12,3",
+    "name": "iPhone 11 Pro",
+    "chip": "A13",
+    "releaseYear": "2019",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone12,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2019-09-20",
+      "Model ID": "iPhone12,3"
+    }
+  },
+  {
+    "id": "iPhone12,5",
+    "name": "iPhone 11 Pro Max",
+    "chip": "A13",
+    "releaseYear": "2019",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone12,5/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2019-09-20",
+      "Model ID": "iPhone12,5"
+    }
+  },
+  {
+    "id": "iPad7,5",
+    "name": "iPad (6th generation) Wi-Fi",
+    "chip": "A10",
+    "releaseYear": "2018",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad7,5/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2018-03-27",
+      "Model ID": "iPad7,5"
+    }
+  },
+  {
+    "id": "iPad7,6",
+    "name": "iPad (6th generation) Wi-Fi + Cellular",
+    "chip": "A10",
+    "releaseYear": "2018",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad7,6/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2018-03-27",
+      "Model ID": "iPad7,6"
+    }
+  },
+  {
+    "id": "iPhone11,2",
+    "name": "iPhone XS",
+    "chip": "A12",
+    "releaseYear": "2018",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone11,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2018-09-21",
+      "Model ID": "iPhone11,2"
+    }
+  },
+  {
+    "id": "iPhone11,4",
+    "name": "iPhone XS Max (China mainland)",
+    "chip": "A12",
+    "releaseYear": "2018",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone11,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2018-09-21",
+      "Model ID": "iPhone11,4"
+    }
+  },
+  {
+    "id": "iPhone11,6",
+    "name": "iPhone XS Max",
+    "chip": "A12",
+    "releaseYear": "2018",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone11,6/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2018-09-21",
+      "Model ID": "iPhone11,6"
+    }
+  },
+  {
+    "id": "iPhone11,8",
+    "name": "iPhone XR",
+    "chip": "A12",
+    "releaseYear": "2018",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone11,8/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2018-10-26",
+      "Model ID": "iPhone11,8"
+    }
+  },
+  {
+    "id": "iPad6,11",
+    "name": "iPad (5th generation) Wi-Fi",
+    "chip": "A9",
+    "releaseYear": "2017",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad6,11/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2017-03-24",
+      "Model ID": "iPad6,11"
+    }
+  },
+  {
+    "id": "iPad6,12",
+    "name": "iPad (5th generation) Wi-Fi + Cellular",
+    "chip": "A9",
+    "releaseYear": "2017",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad6,12/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2017-03-24",
+      "Model ID": "iPad6,12"
+    }
+  },
+  {
+    "id": "iPhone10,1",
+    "name": "iPhone 8 (CDMA)",
+    "chip": "A11",
+    "releaseYear": "2017",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone10,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2017-09-22",
+      "Model ID": "iPhone10,1"
+    }
+  },
+  {
+    "id": "iPhone10,2",
+    "name": "iPhone 8 Plus (CDMA)",
+    "chip": "A11",
+    "releaseYear": "2017",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone10,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2017-09-22",
+      "Model ID": "iPhone10,2"
+    }
+  },
+  {
+    "id": "iPhone10,3",
+    "name": "iPhone X (CDMA)",
+    "chip": "A11",
+    "releaseYear": "2017",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone10,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2017-11-03",
+      "Model ID": "iPhone10,3"
+    }
+  },
+  {
+    "id": "iPhone10,4",
+    "name": "iPhone 8 (GSM)",
+    "chip": "A11",
+    "releaseYear": "2017",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone10,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2017-09-22",
+      "Model ID": "iPhone10,4"
+    }
+  },
+  {
+    "id": "iPhone10,5",
+    "name": "iPhone 8 Plus (GSM)",
+    "chip": "A11",
+    "releaseYear": "2017",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone10,5/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2017-09-22",
+      "Model ID": "iPhone10,5"
+    }
+  },
+  {
+    "id": "iPhone10,6",
+    "name": "iPhone X (GSM)",
+    "chip": "A11",
+    "releaseYear": "2017",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone10,6/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2017-11-03",
+      "Model ID": "iPhone10,6"
+    }
+  },
+  {
+    "id": "iPhone8,4",
+    "name": "iPhone SE (1st generation)",
+    "chip": "A9",
+    "releaseYear": "2016",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone8,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2016-03-31",
+      "Model ID": "iPhone8,4"
+    }
+  },
+  {
+    "id": "iPhone9,1",
+    "name": "iPhone 7 (CDMA)",
+    "chip": "A10",
+    "releaseYear": "2016",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone9,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2016-09-16",
+      "Model ID": "iPhone9,1"
+    }
+  },
+  {
+    "id": "iPhone9,2",
+    "name": "iPhone 7 Plus (CDMA)",
+    "chip": "A10",
+    "releaseYear": "2016",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone9,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2016-09-16",
+      "Model ID": "iPhone9,2"
+    }
+  },
+  {
+    "id": "iPhone9,3",
+    "name": "iPhone 7 (GSM)",
+    "chip": "A10",
+    "releaseYear": "2016",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone9,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2016-09-16",
+      "Model ID": "iPhone9,3"
+    }
+  },
+  {
+    "id": "iPhone9,4",
+    "name": "iPhone 7 Plus (GSM)",
+    "chip": "A10",
+    "releaseYear": "2016",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone9,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2016-09-16",
+      "Model ID": "iPhone9,4"
+    }
+  },
+  {
+    "id": "iPhone8,1",
+    "name": "iPhone 6s",
+    "chip": "A9",
+    "releaseYear": "2015",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone8,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2015-09-25",
+      "Model ID": "iPhone8,1"
+    }
+  },
+  {
+    "id": "iPhone8,2",
+    "name": "iPhone 6s Plus",
+    "chip": "A9",
+    "releaseYear": "2015",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone8,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2015-09-25",
+      "Model ID": "iPhone8,2"
+    }
+  },
+  {
+    "id": "iPhone7,1",
+    "name": "iPhone 6 Plus",
+    "chip": "A8",
+    "releaseYear": "2014",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone7,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2014-09-19",
+      "Model ID": "iPhone7,1"
+    }
+  },
+  {
+    "id": "iPhone7,2",
+    "name": "iPhone 6",
+    "chip": "A8",
+    "releaseYear": "2014",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone7,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2014-09-19",
+      "Model ID": "iPhone7,2"
+    }
+  },
+  {
+    "id": "iPhone5,3",
+    "name": "iPhone 5c (GSM)",
+    "chip": "A6",
+    "releaseYear": "2013",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone5,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2013-09-20",
+      "Model ID": "iPhone5,3"
+    }
+  },
+  {
+    "id": "iPhone5,4",
+    "name": "iPhone 5c (CDMA)",
+    "chip": "A6",
+    "releaseYear": "2013",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone5,4/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2013-09-20",
+      "Model ID": "iPhone5,4"
+    }
+  },
+  {
+    "id": "iPhone6,1",
+    "name": "iPhone 5s (GSM)",
+    "chip": "A7",
+    "releaseYear": "2013",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone6,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2013-09-20",
+      "Model ID": "iPhone6,1"
+    }
+  },
+  {
+    "id": "iPhone6,2",
+    "name": "iPhone 5s (CDMA)",
+    "chip": "A7",
+    "releaseYear": "2013",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone6,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2013-09-20",
+      "Model ID": "iPhone6,2"
+    }
+  },
+  {
+    "id": "iPad2,4",
+    "name": "iPad 2 Wi-Fi (Mid 2012)",
+    "chip": "A5",
+    "releaseYear": "2012",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad2,4/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2012-03-25",
+      "Model ID": "iPad2,4"
+    }
+  },
+  {
+    "id": "iPad3,1",
+    "name": "iPad (3rd generation) Wi-Fi",
+    "chip": "A5X",
+    "releaseYear": "2012",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad3,1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2012-03-16",
+      "Model ID": "iPad3,1"
+    }
+  },
+  {
+    "id": "iPad3,2",
+    "name": "iPad (3rd generation) Wi-Fi + Cellular (VZ)",
+    "chip": "A5X",
+    "releaseYear": "2012",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad3,2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2012-03-16",
+      "Model ID": "iPad3,2"
+    }
+  },
+  {
+    "id": "iPad3,3",
+    "name": "iPad (3rd generation) Wi-Fi + Cellular",
+    "chip": "A5X",
+    "releaseYear": "2012",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad3,3/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2012-03-16",
+      "Model ID": "iPad3,3"
+    }
+  },
+  {
+    "id": "iPad3,4",
+    "name": "iPad (4th generation) Wi-Fi",
+    "chip": "A6X",
+    "releaseYear": "2012",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad3,4/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2012-11-02",
+      "Model ID": "iPad3,4"
+    }
+  },
+  {
+    "id": "iPad3,5",
+    "name": "iPad (4th generation) Wi-Fi + Cellular",
+    "chip": "A6X",
+    "releaseYear": "2012",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad3,5/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2012-11-02",
+      "Model ID": "iPad3,5"
+    }
+  },
+  {
+    "id": "iPad3,6",
+    "name": "iPad (4th generation) Wi-Fi + Cellular (MM)",
+    "chip": "A6X",
+    "releaseYear": "2012",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad3,6/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2012-11-02",
+      "Model ID": "iPad3,6"
+    }
+  },
+  {
+    "id": "iPhone3,2",
+    "name": "iPhone 4 (GSM, 2012)",
+    "chip": "A4",
+    "releaseYear": "2012",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone3,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2012-09-21",
+      "Model ID": "iPhone3,2"
+    }
+  },
+  {
+    "id": "iPhone5,1",
+    "name": "iPhone 5 (GSM)",
+    "chip": "A6",
+    "releaseYear": "2012",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone5,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2012-09-21",
+      "Model ID": "iPhone5,1"
+    }
+  },
+  {
+    "id": "iPhone5,2",
+    "name": "iPhone 5 (CDMA)",
+    "chip": "A6",
+    "releaseYear": "2012",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone5,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2012-09-21",
+      "Model ID": "iPhone5,2"
+    }
+  },
+  {
+    "id": "iPad2,1",
+    "name": "iPad 2 Wi-Fi",
+    "chip": "A5",
+    "releaseYear": "2011",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad2,1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2011-03-11",
+      "Model ID": "iPad2,1"
+    }
+  },
+  {
+    "id": "iPad2,2",
+    "name": "iPad 2 Wi-Fi + 3G (GSM)",
+    "chip": "A5",
+    "releaseYear": "2011",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad2,2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2011-03-11",
+      "Model ID": "iPad2,2"
+    }
+  },
+  {
+    "id": "iPad2,3",
+    "name": "iPad 2 Wi-Fi + 3G (CDMA)",
+    "chip": "A5",
+    "releaseYear": "2011",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad2,3/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2011-03-11",
+      "Model ID": "iPad2,3"
+    }
+  },
+  {
+    "id": "iPhone3,3",
+    "name": "iPhone 4 (CDMA)",
+    "chip": "A4",
+    "releaseYear": "2011",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone3,3/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2011-02-10",
+      "Model ID": "iPhone3,3"
+    }
+  },
+  {
+    "id": "iPhone4,1",
+    "name": "iPhone 4S",
+    "chip": "A5",
+    "releaseYear": "2011",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone4,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2011-10-14",
+      "Model ID": "iPhone4,1"
+    }
+  },
+  {
+    "id": "iPad1,1",
+    "name": "iPad",
+    "chip": "A4",
+    "releaseYear": "2010",
+    "category": "iPad",
+    "imageURL": "https://img.appledb.dev/device@iPad1,1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Introduced": "2010-04-03",
+      "Model ID": "iPad1,1"
+    }
+  },
+  {
+    "id": "iPhone3,1",
+    "name": "iPhone 4 (GSM)",
+    "chip": "A4",
+    "releaseYear": "2010",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone3,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2010-06-24",
+      "Model ID": "iPhone3,1"
+    }
+  },
+  {
+    "id": "iPhone2,1",
+    "name": "iPhone 3GS",
+    "chip": "APL0298",
+    "releaseYear": "2009",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone2,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2009-06-19",
+      "Model ID": "iPhone2,1"
+    }
+  },
+  {
+    "id": "iPhone1,2",
+    "name": "iPhone 3G",
+    "chip": "APL0098",
+    "releaseYear": "2008",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone1,2/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2008-07-11",
+      "Model ID": "iPhone1,2"
+    }
+  },
+  {
+    "id": "iPhone1,1",
+    "name": "iPhone",
+    "chip": "APL0098",
+    "releaseYear": "2007",
+    "category": "iPhone",
+    "imageURL": "https://img.appledb.dev/device@iPhone1,1/0.png",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2007-06-29",
+      "Model ID": "iPhone1,1"
+    }
+  }
+]
