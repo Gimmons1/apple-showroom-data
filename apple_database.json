@@ -1,34 +1,59 @@
 [
   {
-    "chip" : "MOS 6502",
+    "discontinuedYear" : "1977",
+    "specs" : {
+      "Memory Slots" : "16-pin, 4K Dynamic, type 4096 (2104)",
+      "Display Connection" : "Composite positive video",
+      "Architecture" : "8-bit",
+      "Support Status" : "Obsolete",
+      "Processor Speed" : "1 MHz",
+      "Initial Price" : "$666.66",
+      "Graphics Memory" : "1 KB",
+      "Built-in Memory" : "4 KB",
+      "Number of Cores" : "1",
+      "Maximum Memory" : "8 KB (on-board) 65 KB (via Expansion connector)",
+      "External Resolution" : "40 x 24 characters, hardware-implemented scrolling",
+      "Languages in Memory" : "None"
+    },
+    "themeColor" : "#6B4226",
+    "chip" : "MOS Technology 6502",
+    "originalOS" : "Apple Integer BASIC with optional Cassette Interface",
+    "imageName" : "apple_i",
     "name" : "Apple I",
     "category" : "Mac",
-    "imageName" : "apple_1",
-    "themeColor" : "#C47B44",
-    "id" : "apple-1",
-    "specs" : {
-      "Prezzo di Lancio" : "$666.66",
-      "Tastiera" : "Nessuna (Fornita dall'utente, solitamente in legno)",
-      "Rilascio Ufficiale" : "Luglio 1976",
-      "Processore" : "MOS Technology 6502 a 1 MHz (8-bit)",
-      "Sistema Operativo" : "Apple Integer BASIC",
-      "Archiviazione" : "Nessuna (Interfaccia a Cassette Opzionale)",
-      "Dismissione" : "Settembre 1977"
-    },
-    "releaseYear" : "1976"
+    "releaseYear" : "1976",
+    "id" : "apple-i"
   },
   {
-    "chip" : "Essa asse",
-    "name" : "Dee",
-    "originalOS" : "Des",
+    "specs" : {
+      "Dismissione" : "Settembre 1977",
+      "Processore" : "MOS Technology 6502 a 1 MHz (8-bit)",
+      "Prezzo di Lancio" : "$666.66",
+      "Sistema Operativo" : "Apple Integer BASIC",
+      "Rilascio Ufficiale" : "Luglio 1976",
+      "Archiviazione" : "Nessuna (Interfaccia a Cassette Opzionale)",
+      "Tastiera" : "Nessuna (Fornita dall'utente, solitamente in legno)"
+    },
+    "themeColor" : "#C47B44",
+    "chip" : "MOS 6502",
+    "imageName" : "apple_1",
+    "name" : "Apple I",
     "category" : "Mac",
+    "releaseYear" : "1976",
+    "id" : "apple-1"
+  },
+  {
     "tagline" : "Se",
-    "imageName" : "dee",
-    "themeColor" : "#007AFF",
-    "id" : "dee",
     "specs" : {
 
     },
-    "releaseYear" : ""
+    "themeColor" : "#007AFF",
+    "chip" : "Essa asse",
+    "originalOS" : "Des",
+    "imageName" : "dee",
+    "name" : "Dee",
+    "category" : "Mac",
+    "releaseYear" : "",
+    "id" : "dee"
   }
 ]
