@@ -1,28 +1,54 @@
 [
   {
+    "id": "AppleTV14,4",
+    "name": "Unreleased Apple TV",
+    "chip": "N/A",
+    "releaseYear": "N/A",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV14%2C4/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Identifier": "AppleTV14,4"
+    }
+  },
+  {
+    "id": "AppleTV14,5",
+    "name": "Unreleased Apple TV",
+    "chip": "N/A",
+    "releaseYear": "N/A",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV14%2C5/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Identifier": "AppleTV14,5"
+    }
+  },
+  {
     "id": "iPad13,20",
     "name": "Unreleased iPad",
     "chip": "A14",
-    "releaseYear": "Sconosciuto",
+    "releaseYear": "N/A",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad13,20/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad13%2C20/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "",
-      "Model ID": "iPad13,20"
+      "Identifier": "iPad13,20",
+      "Board Config": "J381AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
     "id": "iPad13,21",
     "name": "Unreleased iPad",
     "chip": "A14",
-    "releaseYear": "Sconosciuto",
+    "releaseYear": "N/A",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad13,21/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad13%2C21/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "",
-      "Model ID": "iPad13,21"
+      "Identifier": "iPad13,21",
+      "Board Config": "J382AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -31,11 +57,14 @@
     "chip": "A19",
     "releaseYear": "2026",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone18,5/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone18%2C5/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2026-03-11",
-      "Model ID": "iPhone18,5"
+      "Rilascio Ufficiale": "2026-03-11",
+      "Identifier": "iPhone18,5",
+      "Codice Modello": "A3575, A3634, A3635",
+      "Board Config": "V159AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -44,11 +73,14 @@
     "chip": "A16",
     "releaseYear": "2025",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad15,7/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad15%2C7/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2025-03-12",
-      "Model ID": "iPad15,7"
+      "Rilascio Ufficiale": "2025-03-12",
+      "Identifier": "iPad15,7",
+      "Codice Modello": "A3354",
+      "Board Config": "J481AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -57,11 +89,14 @@
     "chip": "A16",
     "releaseYear": "2025",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad15,8/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad15%2C8/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2025-03-12",
-      "Model ID": "iPad15,8"
+      "Rilascio Ufficiale": "2025-03-12",
+      "Identifier": "iPad15,8",
+      "Codice Modello": "A3355, A3356",
+      "Board Config": "J482AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -70,11 +105,14 @@
     "chip": "A18",
     "releaseYear": "2025",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone17,5/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone17%2C5/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2025-02-28",
-      "Model ID": "iPhone17,5"
+      "Rilascio Ufficiale": "2025-02-28",
+      "Identifier": "iPhone17,5",
+      "Codice Modello": "A3212, A3408, A3409, A3410",
+      "Board Config": "V59AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -83,11 +121,14 @@
     "chip": "A19 Pro",
     "releaseYear": "2025",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone18,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone18%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2025-09-19",
-      "Model ID": "iPhone18,1"
+      "Rilascio Ufficiale": "2025-09-19",
+      "Identifier": "iPhone18,1",
+      "Codice Modello": "A3256, A3522, A3523, A3524",
+      "Board Config": "V53AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -96,11 +137,14 @@
     "chip": "A19 Pro",
     "releaseYear": "2025",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone18,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone18%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2025-09-19",
-      "Model ID": "iPhone18,2"
+      "Rilascio Ufficiale": "2025-09-19",
+      "Identifier": "iPhone18,2",
+      "Codice Modello": "A3257, A3525, A3526, A3527",
+      "Board Config": "V54AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -109,11 +153,14 @@
     "chip": "A19",
     "releaseYear": "2025",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone18,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone18%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2025-09-19",
-      "Model ID": "iPhone18,3"
+      "Rilascio Ufficiale": "2025-09-19",
+      "Identifier": "iPhone18,3",
+      "Codice Modello": "A3258, A3519, A3520, A3521",
+      "Board Config": "V57AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -122,11 +169,14 @@
     "chip": "A19 Pro",
     "releaseYear": "2025",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone18,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone18%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2025-09-19",
-      "Model ID": "iPhone18,4"
+      "Rilascio Ufficiale": "2025-09-19",
+      "Identifier": "iPhone18,4",
+      "Codice Modello": "A3260, A3516, A3517, A3518",
+      "Board Config": "D23AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -135,11 +185,14 @@
     "chip": "A18 Pro",
     "releaseYear": "2024",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone17,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone17%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2024-09-20",
-      "Model ID": "iPhone17,1"
+      "Rilascio Ufficiale": "2024-09-20",
+      "Identifier": "iPhone17,1",
+      "Codice Modello": "A3083, A3292, A3293, A3294",
+      "Board Config": "D93AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -148,11 +201,14 @@
     "chip": "A18 Pro",
     "releaseYear": "2024",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone17,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone17%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2024-09-20",
-      "Model ID": "iPhone17,2"
+      "Rilascio Ufficiale": "2024-09-20",
+      "Identifier": "iPhone17,2",
+      "Codice Modello": "A3084, A3295, A3296, A3297",
+      "Board Config": "D94AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -161,11 +217,14 @@
     "chip": "A18",
     "releaseYear": "2024",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone17,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone17%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2024-09-20",
-      "Model ID": "iPhone17,3"
+      "Rilascio Ufficiale": "2024-09-20",
+      "Identifier": "iPhone17,3",
+      "Codice Modello": "A3081, A3286, A3287, A3288",
+      "Board Config": "D47AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -174,11 +233,14 @@
     "chip": "A18",
     "releaseYear": "2024",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone17,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone17%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2024-09-20",
-      "Model ID": "iPhone17,4"
+      "Rilascio Ufficiale": "2024-09-20",
+      "Identifier": "iPhone17,4",
+      "Codice Modello": "A3082, A3289, A3290, A3291",
+      "Board Config": "D48AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -187,11 +249,14 @@
     "chip": "A16",
     "releaseYear": "2023",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone15,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone15%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2023-09-22",
-      "Model ID": "iPhone15,4"
+      "Rilascio Ufficiale": "2023-09-22",
+      "Identifier": "iPhone15,4",
+      "Codice Modello": "A2846, A3089, A3090, A3092",
+      "Board Config": "D37AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -200,11 +265,14 @@
     "chip": "A16",
     "releaseYear": "2023",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone15,5/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone15%2C5/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2023-09-22",
-      "Model ID": "iPhone15,5"
+      "Rilascio Ufficiale": "2023-09-22",
+      "Identifier": "iPhone15,5",
+      "Codice Modello": "A2847, A3093, A3094, A3096",
+      "Board Config": "D38AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -213,11 +281,14 @@
     "chip": "A17 Pro",
     "releaseYear": "2023",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone16,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone16%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2023-09-22",
-      "Model ID": "iPhone16,1"
+      "Rilascio Ufficiale": "2023-09-22",
+      "Identifier": "iPhone16,1",
+      "Codice Modello": "A2848, A3101, A3102, A3104",
+      "Board Config": "D83AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -226,11 +297,46 @@
     "chip": "A17 Pro",
     "releaseYear": "2023",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone16,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone16%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2023-09-22",
-      "Model ID": "iPhone16,2"
+      "Rilascio Ufficiale": "2023-09-22",
+      "Identifier": "iPhone16,2",
+      "Codice Modello": "A2849, A3105, A3106, A3108",
+      "Board Config": "D84AP",
+      "Architettura Hardware": "arm64e"
+    }
+  },
+  {
+    "id": "AppleTV14,1-wifi",
+    "name": "Apple TV 4K (3rd generation) Wi-Fi",
+    "chip": "A15",
+    "releaseYear": "2022",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV14%2C1-wifi/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2022-11-04",
+      "Identifier": "AppleTV14,1",
+      "Codice Modello": "A2737",
+      "Board Config": "J255AP",
+      "Architettura Hardware": "arm64e"
+    }
+  },
+  {
+    "id": "AppleTV14,1",
+    "name": "Apple TV 4K (3rd generation) Wi-Fi + Ethernet",
+    "chip": "A15",
+    "releaseYear": "2022",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV14%2C1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2022-11-04",
+      "Identifier": "AppleTV14,1",
+      "Codice Modello": "A2843",
+      "Board Config": "J255AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -239,11 +345,14 @@
     "chip": "A14",
     "releaseYear": "2022",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad13,18/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad13%2C18/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2022-10-26",
-      "Model ID": "iPad13,18"
+      "Rilascio Ufficiale": "2022-10-26",
+      "Identifier": "iPad13,18",
+      "Codice Modello": "A2696",
+      "Board Config": "J271AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -252,11 +361,14 @@
     "chip": "A14",
     "releaseYear": "2022",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad13,19/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad13%2C19/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2022-10-26",
-      "Model ID": "iPad13,19"
+      "Rilascio Ufficiale": "2022-10-26",
+      "Identifier": "iPad13,19",
+      "Codice Modello": "A2757, A2777, A3162",
+      "Board Config": "J272AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -265,11 +377,14 @@
     "chip": "A15",
     "releaseYear": "2022",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone14,6/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone14%2C6/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2022-03-18",
-      "Model ID": "iPhone14,6"
+      "Rilascio Ufficiale": "2022-03-18",
+      "Identifier": "iPhone14,6",
+      "Codice Modello": "A2595, A2782, A2783, A2784, A2785",
+      "Board Config": "D49AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -278,11 +393,14 @@
     "chip": "A15",
     "releaseYear": "2022",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone14,7/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone14%2C7/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2022-09-16",
-      "Model ID": "iPhone14,7"
+      "Rilascio Ufficiale": "2022-09-16",
+      "Identifier": "iPhone14,7",
+      "Codice Modello": "A2649, A2881, A2882, A2883, A2884",
+      "Board Config": "D27AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -291,11 +409,14 @@
     "chip": "A15",
     "releaseYear": "2022",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone14,8/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone14%2C8/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2022-10-07",
-      "Model ID": "iPhone14,8"
+      "Rilascio Ufficiale": "2022-10-07",
+      "Identifier": "iPhone14,8",
+      "Codice Modello": "A2632, A2885, A2886, A2887, A2888",
+      "Board Config": "D28AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -304,11 +425,14 @@
     "chip": "A16",
     "releaseYear": "2022",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone15,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone15%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2022-09-16",
-      "Model ID": "iPhone15,2"
+      "Rilascio Ufficiale": "2022-09-16",
+      "Identifier": "iPhone15,2",
+      "Codice Modello": "A2650, A2889, A2890, A2891, A2892",
+      "Board Config": "D73AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -317,11 +441,30 @@
     "chip": "A16",
     "releaseYear": "2022",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone15,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone15%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2022-09-16",
-      "Model ID": "iPhone15,3"
+      "Rilascio Ufficiale": "2022-09-16",
+      "Identifier": "iPhone15,3",
+      "Codice Modello": "A2651, A2893, A2894, A2895, A2896",
+      "Board Config": "D74AP",
+      "Architettura Hardware": "arm64e"
+    }
+  },
+  {
+    "id": "AppleTV11,1",
+    "name": "Apple TV 4K (2nd generation)",
+    "chip": "A12",
+    "releaseYear": "2021",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV11%2C1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2021-05-21",
+      "Identifier": "AppleTV11,1",
+      "Codice Modello": "A2169",
+      "Board Config": "J305AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -330,11 +473,14 @@
     "chip": "A13",
     "releaseYear": "2021",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad12,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad12%2C1/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2021-09-24",
-      "Model ID": "iPad12,1"
+      "Rilascio Ufficiale": "2021-09-24",
+      "Identifier": "iPad12,1",
+      "Codice Modello": "A2602",
+      "Board Config": "J181AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -343,11 +489,14 @@
     "chip": "A13",
     "releaseYear": "2021",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad12,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad12%2C2/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2021-09-24",
-      "Model ID": "iPad12,2"
+      "Rilascio Ufficiale": "2021-09-24",
+      "Identifier": "iPad12,2",
+      "Codice Modello": "A2603, A2604, A2605",
+      "Board Config": "J182AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -356,11 +505,14 @@
     "chip": "A15",
     "releaseYear": "2021",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone14,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone14%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2021-09-24",
-      "Model ID": "iPhone14,2"
+      "Rilascio Ufficiale": "2021-09-24",
+      "Identifier": "iPhone14,2",
+      "Codice Modello": "A2483, A2636, A2638, A2639, A2640",
+      "Board Config": "D63AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -369,11 +521,14 @@
     "chip": "A15",
     "releaseYear": "2021",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone14,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone14%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2021-09-24",
-      "Model ID": "iPhone14,3"
+      "Rilascio Ufficiale": "2021-09-24",
+      "Identifier": "iPhone14,3",
+      "Codice Modello": "A2484, A2641, A2643, A2644, A2645",
+      "Board Config": "D64AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -382,11 +537,14 @@
     "chip": "A15",
     "releaseYear": "2021",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone14,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone14%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2021-09-24",
-      "Model ID": "iPhone14,4"
+      "Rilascio Ufficiale": "2021-09-24",
+      "Identifier": "iPhone14,4",
+      "Codice Modello": "A2481, A2626, A2628, A2629, A2630",
+      "Board Config": "D16AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -395,11 +553,14 @@
     "chip": "A15",
     "releaseYear": "2021",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone14,5/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone14%2C5/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2021-09-24",
-      "Model ID": "iPhone14,5"
+      "Rilascio Ufficiale": "2021-09-24",
+      "Identifier": "iPhone14,5",
+      "Codice Modello": "A2482, A2631, A2633, A2634, A2635",
+      "Board Config": "D17AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -408,11 +569,14 @@
     "chip": "A12",
     "releaseYear": "2020",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad11,6/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad11%2C6/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2020-09-18",
-      "Model ID": "iPad11,6"
+      "Rilascio Ufficiale": "2020-09-18",
+      "Identifier": "iPad11,6",
+      "Codice Modello": "A2270",
+      "Board Config": "J171aAP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -421,11 +585,14 @@
     "chip": "A12",
     "releaseYear": "2020",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad11,7/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad11%2C7/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2020-09-18",
-      "Model ID": "iPad11,7"
+      "Rilascio Ufficiale": "2020-09-18",
+      "Identifier": "iPad11,7",
+      "Codice Modello": "A2428, A2429, A2430",
+      "Board Config": "J172aAP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -434,11 +601,14 @@
     "chip": "A13",
     "releaseYear": "2020",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone12,8/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone12%2C8/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2020-04-24",
-      "Model ID": "iPhone12,8"
+      "Rilascio Ufficiale": "2020-04-24",
+      "Identifier": "iPhone12,8",
+      "Codice Modello": "A2275, A2296, A2297, A2298",
+      "Board Config": "D79AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -447,11 +617,14 @@
     "chip": "A14",
     "releaseYear": "2020",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone13,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone13%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2020-11-13",
-      "Model ID": "iPhone13,1"
+      "Rilascio Ufficiale": "2020-11-13",
+      "Identifier": "iPhone13,1",
+      "Codice Modello": "A2176, A2398, A2399, A2400, A2401",
+      "Board Config": "D52gAP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -460,11 +633,14 @@
     "chip": "A14",
     "releaseYear": "2020",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone13,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone13%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2020-10-23",
-      "Model ID": "iPhone13,2"
+      "Rilascio Ufficiale": "2020-10-23",
+      "Identifier": "iPhone13,2",
+      "Codice Modello": "A2172, A2402, A2403, A2404, A2405",
+      "Board Config": "D53gAP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -473,11 +649,14 @@
     "chip": "A14",
     "releaseYear": "2020",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone13,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone13%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2020-10-23",
-      "Model ID": "iPhone13,3"
+      "Rilascio Ufficiale": "2020-10-23",
+      "Identifier": "iPhone13,3",
+      "Codice Modello": "A2341, A2406, A2407, A2408, A2409",
+      "Board Config": "D53pAP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -486,11 +665,14 @@
     "chip": "A14",
     "releaseYear": "2020",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone13,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone13%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2020-11-13",
-      "Model ID": "iPhone13,4"
+      "Rilascio Ufficiale": "2020-11-13",
+      "Identifier": "iPhone13,4",
+      "Codice Modello": "A2342, A2410, A2411, A2412, A2413",
+      "Board Config": "D54pAP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -499,11 +681,14 @@
     "chip": "A10",
     "releaseYear": "2019",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad7,11/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad7%2C11/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2019-09-25",
-      "Model ID": "iPad7,11"
+      "Rilascio Ufficiale": "2019-09-25",
+      "Identifier": "iPad7,11",
+      "Codice Modello": "A2197",
+      "Board Config": "J171AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -512,11 +697,14 @@
     "chip": "A10",
     "releaseYear": "2019",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad7,12/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad7%2C12/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2019-09-25",
-      "Model ID": "iPad7,12"
+      "Rilascio Ufficiale": "2019-09-25",
+      "Identifier": "iPad7,12",
+      "Codice Modello": "A2198, A2199, A2200",
+      "Board Config": "J172AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -525,11 +713,14 @@
     "chip": "A13",
     "releaseYear": "2019",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone12,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone12%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2019-09-20",
-      "Model ID": "iPhone12,1"
+      "Rilascio Ufficiale": "2019-09-20",
+      "Identifier": "iPhone12,1",
+      "Codice Modello": "A2111, A2221, A2222, A2223",
+      "Board Config": "N104AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -538,11 +729,14 @@
     "chip": "A13",
     "releaseYear": "2019",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone12,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone12%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2019-09-20",
-      "Model ID": "iPhone12,3"
+      "Rilascio Ufficiale": "2019-09-20",
+      "Identifier": "iPhone12,3",
+      "Codice Modello": "A2160, A2215, A2216, A2217",
+      "Board Config": "D421AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -551,11 +745,14 @@
     "chip": "A13",
     "releaseYear": "2019",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone12,5/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone12%2C5/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2019-09-20",
-      "Model ID": "iPhone12,5"
+      "Rilascio Ufficiale": "2019-09-20",
+      "Identifier": "iPhone12,5",
+      "Codice Modello": "A2161, A2218, A2219, A2220",
+      "Board Config": "D431AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -564,11 +761,14 @@
     "chip": "A10",
     "releaseYear": "2018",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad7,5/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad7%2C5/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2018-03-27",
-      "Model ID": "iPad7,5"
+      "Rilascio Ufficiale": "2018-03-27",
+      "Identifier": "iPad7,5",
+      "Codice Modello": "A1893",
+      "Board Config": "J71bAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -577,11 +777,14 @@
     "chip": "A10",
     "releaseYear": "2018",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad7,6/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad7%2C6/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2018-03-27",
-      "Model ID": "iPad7,6"
+      "Rilascio Ufficiale": "2018-03-27",
+      "Identifier": "iPad7,6",
+      "Codice Modello": "A1954",
+      "Board Config": "J72bAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -590,11 +793,14 @@
     "chip": "A12",
     "releaseYear": "2018",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone11,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone11%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2018-09-21",
-      "Model ID": "iPhone11,2"
+      "Rilascio Ufficiale": "2018-09-21",
+      "Identifier": "iPhone11,2",
+      "Codice Modello": "A1920, A2097, A2098, A2099, A2100",
+      "Board Config": "D321AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -603,11 +809,14 @@
     "chip": "A12",
     "releaseYear": "2018",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone11,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone11%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2018-09-21",
-      "Model ID": "iPhone11,4"
+      "Rilascio Ufficiale": "2018-09-21",
+      "Identifier": "iPhone11,4",
+      "Codice Modello": "A2103",
+      "Board Config": "D331AP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -616,11 +825,14 @@
     "chip": "A12",
     "releaseYear": "2018",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone11,6/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone11%2C6/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2018-09-21",
-      "Model ID": "iPhone11,6"
+      "Rilascio Ufficiale": "2018-09-21",
+      "Identifier": "iPhone11,6",
+      "Codice Modello": "A1921, A2101, A2102, A2104",
+      "Board Config": "D331pAP",
+      "Architettura Hardware": "arm64e"
     }
   },
   {
@@ -629,11 +841,30 @@
     "chip": "A12",
     "releaseYear": "2018",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone11,8/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone11%2C8/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2018-10-26",
-      "Model ID": "iPhone11,8"
+      "Rilascio Ufficiale": "2018-10-26",
+      "Identifier": "iPhone11,8",
+      "Codice Modello": "A1984, A2105, A2106, A2107, A2108",
+      "Board Config": "N841AP",
+      "Architettura Hardware": "arm64e"
+    }
+  },
+  {
+    "id": "AppleTV6,2",
+    "name": "Apple TV 4K (1st generation)",
+    "chip": "A10X",
+    "releaseYear": "2017",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV6%2C2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2017-09-22",
+      "Identifier": "AppleTV6,2",
+      "Codice Modello": "A1842",
+      "Board Config": "J105aAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -642,11 +873,14 @@
     "chip": "A9",
     "releaseYear": "2017",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad6,11/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad6%2C11/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2017-03-24",
-      "Model ID": "iPad6,11"
+      "Rilascio Ufficiale": "2017-03-24",
+      "Identifier": "iPad6,11",
+      "Codice Modello": "A1822",
+      "Board Config": "J71sAP, J71tAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -655,11 +889,14 @@
     "chip": "A9",
     "releaseYear": "2017",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad6,12/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad6%2C12/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2017-03-24",
-      "Model ID": "iPad6,12"
+      "Rilascio Ufficiale": "2017-03-24",
+      "Identifier": "iPad6,12",
+      "Codice Modello": "A1823",
+      "Board Config": "J72sAP, J72tAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -668,11 +905,14 @@
     "chip": "A11",
     "releaseYear": "2017",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone10,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone10%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2017-09-22",
-      "Model ID": "iPhone10,1"
+      "Rilascio Ufficiale": "2017-09-22",
+      "Identifier": "iPhone10,1",
+      "Codice Modello": "A1863, A1906, A1907",
+      "Board Config": "D20AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -681,11 +921,14 @@
     "chip": "A11",
     "releaseYear": "2017",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone10,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone10%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2017-09-22",
-      "Model ID": "iPhone10,2"
+      "Rilascio Ufficiale": "2017-09-22",
+      "Identifier": "iPhone10,2",
+      "Codice Modello": "A1864, A1898, A1899",
+      "Board Config": "D21AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -694,11 +937,14 @@
     "chip": "A11",
     "releaseYear": "2017",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone10,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone10%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2017-11-03",
-      "Model ID": "iPhone10,3"
+      "Rilascio Ufficiale": "2017-11-03",
+      "Identifier": "iPhone10,3",
+      "Codice Modello": "A1865, A1902, A1903",
+      "Board Config": "D22AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -707,11 +953,14 @@
     "chip": "A11",
     "releaseYear": "2017",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone10,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone10%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2017-09-22",
-      "Model ID": "iPhone10,4"
+      "Rilascio Ufficiale": "2017-09-22",
+      "Identifier": "iPhone10,4",
+      "Codice Modello": "A1905",
+      "Board Config": "D201AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -720,11 +969,14 @@
     "chip": "A11",
     "releaseYear": "2017",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone10,5/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone10%2C5/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2017-09-22",
-      "Model ID": "iPhone10,5"
+      "Rilascio Ufficiale": "2017-09-22",
+      "Identifier": "iPhone10,5",
+      "Codice Modello": "A1897",
+      "Board Config": "D211AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -733,11 +985,14 @@
     "chip": "A11",
     "releaseYear": "2017",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone10,6/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone10%2C6/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2017-11-03",
-      "Model ID": "iPhone10,6"
+      "Rilascio Ufficiale": "2017-11-03",
+      "Identifier": "iPhone10,6",
+      "Codice Modello": "A1901",
+      "Board Config": "D221AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -746,11 +1001,14 @@
     "chip": "A9",
     "releaseYear": "2016",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone8,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone8%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2016-03-31",
-      "Model ID": "iPhone8,4"
+      "Rilascio Ufficiale": "2016-03-31",
+      "Identifier": "iPhone8,4",
+      "Codice Modello": "A1662, A1723, A1724",
+      "Board Config": "N69AP, N69uAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -759,11 +1017,14 @@
     "chip": "A10",
     "releaseYear": "2016",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone9,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone9%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2016-09-16",
-      "Model ID": "iPhone9,1"
+      "Rilascio Ufficiale": "2016-09-16",
+      "Identifier": "iPhone9,1",
+      "Codice Modello": "A1660, A1779, A1780",
+      "Board Config": "D10AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -772,11 +1033,14 @@
     "chip": "A10",
     "releaseYear": "2016",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone9,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone9%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2016-09-16",
-      "Model ID": "iPhone9,2"
+      "Rilascio Ufficiale": "2016-09-16",
+      "Identifier": "iPhone9,2",
+      "Codice Modello": "A1661, A1785, A1786",
+      "Board Config": "D11AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -785,11 +1049,14 @@
     "chip": "A10",
     "releaseYear": "2016",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone9,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone9%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2016-09-16",
-      "Model ID": "iPhone9,3"
+      "Rilascio Ufficiale": "2016-09-16",
+      "Identifier": "iPhone9,3",
+      "Codice Modello": "A1778",
+      "Board Config": "D101AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -798,11 +1065,30 @@
     "chip": "A10",
     "releaseYear": "2016",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone9,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone9%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2016-09-16",
-      "Model ID": "iPhone9,4"
+      "Rilascio Ufficiale": "2016-09-16",
+      "Identifier": "iPhone9,4",
+      "Codice Modello": "A1784",
+      "Board Config": "D111AP",
+      "Architettura Hardware": "arm64"
+    }
+  },
+  {
+    "id": "AppleTV5,3",
+    "name": "Apple TV HD (4th generation)",
+    "chip": "A8",
+    "releaseYear": "2015",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV5%2C3/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2015-10-30",
+      "Identifier": "AppleTV5,3",
+      "Codice Modello": "A1625",
+      "Board Config": "J42dAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -811,11 +1097,14 @@
     "chip": "A9",
     "releaseYear": "2015",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone8,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone8%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2015-09-25",
-      "Model ID": "iPhone8,1"
+      "Rilascio Ufficiale": "2015-09-25",
+      "Identifier": "iPhone8,1",
+      "Codice Modello": "A1633, A1688, A1691, A1700",
+      "Board Config": "N71AP, N71mAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -824,11 +1113,14 @@
     "chip": "A9",
     "releaseYear": "2015",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone8,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone8%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2015-09-25",
-      "Model ID": "iPhone8,2"
+      "Rilascio Ufficiale": "2015-09-25",
+      "Identifier": "iPhone8,2",
+      "Codice Modello": "A1634, A1687, A1690, A1699",
+      "Board Config": "N66AP, N66mAP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -837,11 +1129,14 @@
     "chip": "A8",
     "releaseYear": "2014",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone7,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone7%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2014-09-19",
-      "Model ID": "iPhone7,1"
+      "Rilascio Ufficiale": "2014-09-19",
+      "Identifier": "iPhone7,1",
+      "Codice Modello": "A1522, A1524, A1593",
+      "Board Config": "N56AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -850,11 +1145,30 @@
     "chip": "A8",
     "releaseYear": "2014",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone7,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone7%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2014-09-19",
-      "Model ID": "iPhone7,2"
+      "Rilascio Ufficiale": "2014-09-19",
+      "Identifier": "iPhone7,2",
+      "Codice Modello": "A1549, A1586, A1589",
+      "Board Config": "N61AP",
+      "Architettura Hardware": "arm64"
+    }
+  },
+  {
+    "id": "AppleTV3,2",
+    "name": "Apple TV (3rd generation, Rev A)",
+    "chip": "A5",
+    "releaseYear": "2013",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV3%2C2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2013-01-28",
+      "Identifier": "AppleTV3,2",
+      "Codice Modello": "A1469",
+      "Board Config": "J33iAP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -863,11 +1177,14 @@
     "chip": "A6",
     "releaseYear": "2013",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone5,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone5%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2013-09-20",
-      "Model ID": "iPhone5,3"
+      "Rilascio Ufficiale": "2013-09-20",
+      "Identifier": "iPhone5,3",
+      "Codice Modello": "A1456, A1532",
+      "Board Config": "N48AP",
+      "Architettura Hardware": "armv7s"
     }
   },
   {
@@ -876,11 +1193,14 @@
     "chip": "A6",
     "releaseYear": "2013",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone5,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone5%2C4/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2013-09-20",
-      "Model ID": "iPhone5,4"
+      "Rilascio Ufficiale": "2013-09-20",
+      "Identifier": "iPhone5,4",
+      "Codice Modello": "A1507, A1516, A1526, A1529",
+      "Board Config": "N49AP",
+      "Architettura Hardware": "armv7s"
     }
   },
   {
@@ -889,11 +1209,14 @@
     "chip": "A7",
     "releaseYear": "2013",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone6,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone6%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2013-09-20",
-      "Model ID": "iPhone6,1"
+      "Rilascio Ufficiale": "2013-09-20",
+      "Identifier": "iPhone6,1",
+      "Codice Modello": "A1453, A1533",
+      "Board Config": "N51AP",
+      "Architettura Hardware": "arm64"
     }
   },
   {
@@ -902,11 +1225,30 @@
     "chip": "A7",
     "releaseYear": "2013",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone6,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone6%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2013-09-20",
-      "Model ID": "iPhone6,2"
+      "Rilascio Ufficiale": "2013-09-20",
+      "Identifier": "iPhone6,2",
+      "Codice Modello": "A1457, A1518, A1528, A1530",
+      "Board Config": "N53AP",
+      "Architettura Hardware": "arm64"
+    }
+  },
+  {
+    "id": "AppleTV3,1",
+    "name": "Apple TV (3rd generation)",
+    "chip": "A5",
+    "releaseYear": "2012",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV3%2C1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2012-03-07",
+      "Identifier": "AppleTV3,1",
+      "Codice Modello": "A1427",
+      "Board Config": "J33AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -915,11 +1257,14 @@
     "chip": "A5",
     "releaseYear": "2012",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad2,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad2%2C4/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2012-03-25",
-      "Model ID": "iPad2,4"
+      "Rilascio Ufficiale": "2012-03-25",
+      "Identifier": "iPad2,4",
+      "Codice Modello": "A1395",
+      "Board Config": "K93aAP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -928,11 +1273,14 @@
     "chip": "A5X",
     "releaseYear": "2012",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad3,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad3%2C1/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2012-03-16",
-      "Model ID": "iPad3,1"
+      "Rilascio Ufficiale": "2012-03-16",
+      "Identifier": "iPad3,1",
+      "Codice Modello": "A1416",
+      "Board Config": "J1AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -941,11 +1289,14 @@
     "chip": "A5X",
     "releaseYear": "2012",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad3,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad3%2C2/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2012-03-16",
-      "Model ID": "iPad3,2"
+      "Rilascio Ufficiale": "2012-03-16",
+      "Identifier": "iPad3,2",
+      "Codice Modello": "A1403",
+      "Board Config": "J2AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -954,11 +1305,14 @@
     "chip": "A5X",
     "releaseYear": "2012",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad3,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad3%2C3/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2012-03-16",
-      "Model ID": "iPad3,3"
+      "Rilascio Ufficiale": "2012-03-16",
+      "Identifier": "iPad3,3",
+      "Codice Modello": "A1430",
+      "Board Config": "J2aAP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -967,11 +1321,14 @@
     "chip": "A6X",
     "releaseYear": "2012",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad3,4/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad3%2C4/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2012-11-02",
-      "Model ID": "iPad3,4"
+      "Rilascio Ufficiale": "2012-11-02",
+      "Identifier": "iPad3,4",
+      "Codice Modello": "A1458",
+      "Board Config": "P101AP",
+      "Architettura Hardware": "armv7s"
     }
   },
   {
@@ -980,11 +1337,14 @@
     "chip": "A6X",
     "releaseYear": "2012",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad3,5/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad3%2C5/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2012-11-02",
-      "Model ID": "iPad3,5"
+      "Rilascio Ufficiale": "2012-11-02",
+      "Identifier": "iPad3,5",
+      "Codice Modello": "A1459",
+      "Board Config": "P102AP",
+      "Architettura Hardware": "armv7s"
     }
   },
   {
@@ -993,11 +1353,14 @@
     "chip": "A6X",
     "releaseYear": "2012",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad3,6/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad3%2C6/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2012-11-02",
-      "Model ID": "iPad3,6"
+      "Rilascio Ufficiale": "2012-11-02",
+      "Identifier": "iPad3,6",
+      "Codice Modello": "A1460",
+      "Board Config": "P103AP",
+      "Architettura Hardware": "armv7s"
     }
   },
   {
@@ -1006,11 +1369,14 @@
     "chip": "A4",
     "releaseYear": "2012",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone3,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone3%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2012-09-21",
-      "Model ID": "iPhone3,2"
+      "Rilascio Ufficiale": "2012-09-21",
+      "Identifier": "iPhone3,2",
+      "Codice Modello": "A1332",
+      "Board Config": "N90bAP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -1019,11 +1385,14 @@
     "chip": "A6",
     "releaseYear": "2012",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone5,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone5%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2012-09-21",
-      "Model ID": "iPhone5,1"
+      "Rilascio Ufficiale": "2012-09-21",
+      "Identifier": "iPhone5,1",
+      "Codice Modello": "A1428, A1429",
+      "Board Config": "N41AP",
+      "Architettura Hardware": "armv7s"
     }
   },
   {
@@ -1032,11 +1401,27 @@
     "chip": "A6",
     "releaseYear": "2012",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone5,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone5%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2012-09-21",
-      "Model ID": "iPhone5,2"
+      "Rilascio Ufficiale": "2012-09-21",
+      "Identifier": "iPhone5,2",
+      "Codice Modello": "A1429, A1442",
+      "Board Config": "N42AP",
+      "Architettura Hardware": "armv7s"
+    }
+  },
+  {
+    "id": "iPod classic (Late 2012)",
+    "name": "iPod classic (Late 2012)",
+    "chip": "Samsung S5L8702",
+    "releaseYear": "2012",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20classic%20%28Late%202012%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2012-09-12",
+      "Codice Modello": "A1238"
     }
   },
   {
@@ -1045,11 +1430,14 @@
     "chip": "A5",
     "releaseYear": "2011",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad2,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad2%2C1/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2011-03-11",
-      "Model ID": "iPad2,1"
+      "Rilascio Ufficiale": "2011-03-11",
+      "Identifier": "iPad2,1",
+      "Codice Modello": "A1395",
+      "Board Config": "K93AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -1058,11 +1446,14 @@
     "chip": "A5",
     "releaseYear": "2011",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad2,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad2%2C2/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2011-03-11",
-      "Model ID": "iPad2,2"
+      "Rilascio Ufficiale": "2011-03-11",
+      "Identifier": "iPad2,2",
+      "Codice Modello": "A1396",
+      "Board Config": "K94AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -1071,11 +1462,14 @@
     "chip": "A5",
     "releaseYear": "2011",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad2,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad2%2C3/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2011-03-11",
-      "Model ID": "iPad2,3"
+      "Rilascio Ufficiale": "2011-03-11",
+      "Identifier": "iPad2,3",
+      "Codice Modello": "A1397",
+      "Board Config": "K95AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -1084,11 +1478,14 @@
     "chip": "A4",
     "releaseYear": "2011",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone3,3/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone3%2C3/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2011-02-10",
-      "Model ID": "iPhone3,3"
+      "Rilascio Ufficiale": "2011-02-10",
+      "Identifier": "iPhone3,3",
+      "Codice Modello": "A1349",
+      "Board Config": "N92AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -1097,11 +1494,30 @@
     "chip": "A5",
     "releaseYear": "2011",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone4,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone4%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2011-10-14",
-      "Model ID": "iPhone4,1"
+      "Rilascio Ufficiale": "2011-10-14",
+      "Identifier": "iPhone4,1",
+      "Codice Modello": "A1387, A1431",
+      "Board Config": "N94AP",
+      "Architettura Hardware": "armv7"
+    }
+  },
+  {
+    "id": "AppleTV2,1",
+    "name": "Apple TV (2nd generation)",
+    "chip": "A4",
+    "releaseYear": "2010",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV2%2C1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2010-09-01",
+      "Identifier": "AppleTV2,1",
+      "Codice Modello": "A1378",
+      "Board Config": "K66AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -1110,11 +1526,14 @@
     "chip": "A4",
     "releaseYear": "2010",
     "category": "iPad",
-    "imageURL": "https://img.appledb.dev/device@iPad1,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPad1%2C1/0.png",
     "themeColor": "#FF2D55",
     "specs": {
-      "Introduced": "2010-04-03",
-      "Model ID": "iPad1,1"
+      "Rilascio Ufficiale": "2010-04-03",
+      "Identifier": "iPad1,1",
+      "Codice Modello": "A1219, A1337",
+      "Board Config": "K48AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -1123,11 +1542,14 @@
     "chip": "A4",
     "releaseYear": "2010",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone3,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone3%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2010-06-24",
-      "Model ID": "iPhone3,1"
+      "Rilascio Ufficiale": "2010-06-24",
+      "Identifier": "iPhone3,1",
+      "Codice Modello": "A1332",
+      "Board Config": "N90AP",
+      "Architettura Hardware": "armv7"
     }
   },
   {
@@ -1136,11 +1558,27 @@
     "chip": "APL0298",
     "releaseYear": "2009",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone2,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone2%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2009-06-19",
-      "Model ID": "iPhone2,1"
+      "Rilascio Ufficiale": "2009-06-19",
+      "Identifier": "iPhone2,1",
+      "Codice Modello": "A1303, A1325",
+      "Board Config": "N88AP",
+      "Architettura Hardware": "armv7"
+    }
+  },
+  {
+    "id": "iPod classic (Late 2009)",
+    "name": "iPod classic (Late 2009)",
+    "chip": "Samsung S5L8702",
+    "releaseYear": "2009",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20classic%20%28Late%202009%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2009-09-09",
+      "Codice Modello": "A1238"
     }
   },
   {
@@ -1149,11 +1587,43 @@
     "chip": "APL0098",
     "releaseYear": "2008",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone1,2/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone1%2C2/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2008-07-11",
-      "Model ID": "iPhone1,2"
+      "Rilascio Ufficiale": "2008-07-11",
+      "Identifier": "iPhone1,2",
+      "Codice Modello": "A1241, A1324",
+      "Board Config": "N82AP",
+      "Architettura Hardware": "armv6"
+    }
+  },
+  {
+    "id": "iPod classic (Late 2008)",
+    "name": "iPod classic (Late 2008)",
+    "chip": "Samsung S5L8702",
+    "releaseYear": "2008",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20classic%20%28Late%202008%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2008-09-09",
+      "Codice Modello": "A1238"
+    }
+  },
+  {
+    "id": "AppleTV1,1",
+    "name": "Apple TV (1st generation)",
+    "chip": "Pentium M",
+    "releaseYear": "2007",
+    "category": "Apple TV",
+    "imageURL": "https://img.appledb.dev/device@256/AppleTV1%2C1/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2007-03-21",
+      "Identifier": "AppleTV1,1",
+      "Codice Modello": "A1218",
+      "Board Config": "Mac-F4228DC8",
+      "Architettura Hardware": "x86"
     }
   },
   {
@@ -1162,11 +1632,430 @@
     "chip": "APL0098",
     "releaseYear": "2007",
     "category": "iPhone",
-    "imageURL": "https://img.appledb.dev/device@iPhone1,1/0.png",
+    "imageURL": "https://img.appledb.dev/device@256/iPhone1%2C1/0.png",
     "themeColor": "#8A8B8C",
     "specs": {
-      "Introduced": "2007-06-29",
-      "Model ID": "iPhone1,1"
+      "Rilascio Ufficiale": "2007-06-29",
+      "Identifier": "iPhone1,1",
+      "Codice Modello": "A1203",
+      "Board Config": "M68AP",
+      "Architettura Hardware": "armv6"
+    }
+  },
+  {
+    "id": "iPod classic",
+    "name": "iPod classic",
+    "chip": "Samsung S5L8702",
+    "releaseYear": "2007",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20classic/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2007-09-05",
+      "Codice Modello": "A1238"
+    }
+  },
+  {
+    "id": "iPod with video (Late 2006)",
+    "name": "iPod with video (Late 2006)",
+    "chip": "PortalPlayer PP5021C",
+    "releaseYear": "2006",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20with%20video%20%28Late%202006%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2006-09-12",
+      "Codice Modello": "A1136"
+    }
+  },
+  {
+    "id": "iPod with video-lateu2",
+    "name": "iPod with video (Late 2006) U2 Edition",
+    "chip": "PortalPlayer PP5021C",
+    "releaseYear": "2006",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20with%20video-lateu2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2006-09-12",
+      "Codice Modello": "A1136"
+    }
+  },
+  {
+    "id": "iPod with video-u2",
+    "name": "iPod with video U2 Edition",
+    "chip": "PortalPlayer PP5021C",
+    "releaseYear": "2006",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20with%20video-u2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2006-06-06",
+      "Codice Modello": "A1136"
+    }
+  },
+  {
+    "id": "iPod with color display-harrypotter",
+    "name": "iPod with color display Harry Potter Edition",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20with%20color%20display-harrypotter/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-09-07",
+      "Codice Modello": "A1099"
+    }
+  },
+  {
+    "id": "iPod from HP Color Music Player",
+    "name": "iPod from HP Color Music Player",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20from%20HP%20Color%20Music%20Player/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-04-12",
+      "Codice Modello": "MP7001, MP7002"
+    }
+  },
+  {
+    "id": "iPod photo-revision",
+    "name": "iPod photo",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20photo-revision/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-02-23",
+      "Codice Modello": "A1099"
+    }
+  },
+  {
+    "id": "iPod with color display-u2",
+    "name": "iPod with color display U2 Edition",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20with%20color%20display-u2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-06-28",
+      "Codice Modello": "A1099"
+    }
+  },
+  {
+    "id": "iPod with color display",
+    "name": "iPod with color display",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20with%20color%20display/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-06-28",
+      "Codice Modello": "A1099"
+    }
+  },
+  {
+    "id": "iPod with video-harrypotter",
+    "name": "iPod with video Harry Potter Edition",
+    "chip": "PortalPlayer PP5021C",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20with%20video-harrypotter/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-10-12",
+      "Codice Modello": "A1238"
+    }
+  },
+  {
+    "id": "iPod with video",
+    "name": "iPod with video",
+    "chip": "PortalPlayer PP5021C",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20with%20video/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-10-12",
+      "Codice Modello": "A1136"
+    }
+  },
+  {
+    "id": "iPod Shuffle from HP Music Player (1 GB)",
+    "name": "iPod Shuffle from HP Music Player (1 GB)",
+    "chip": "SigmaTel D-Major STMP 3550",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20Shuffle%20from%20HP%20Music%20Player%20%281%20GB%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-07-01",
+      "Codice Modello": "MP3002"
+    }
+  },
+  {
+    "id": "iPod Shuffle from HP Music Player (512 MB)",
+    "name": "iPod Shuffle from HP Music Player (512 MB)",
+    "chip": "SigmaTel D-Major STMP 3550",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20Shuffle%20from%20HP%20Music%20Player%20%28512%20MB%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-07-01",
+      "Codice Modello": "MP3001"
+    }
+  },
+  {
+    "id": "iPod mini from HP Music Player",
+    "name": "iPod mini from HP Music Player",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2005",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20mini%20from%20HP%20Music%20Player/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2005-06-02",
+      "Codice Modello": "MP5001, MP5002"
+    }
+  },
+  {
+    "id": "iPod (Dock Connector)-revisionB",
+    "name": "iPod (Dock Connector)",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2004",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Dock%20Connector%29-revisionB/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2004-01-06",
+      "Codice Modello": "A1040"
+    }
+  },
+  {
+    "id": "iPod (Click Wheel)-u2",
+    "name": "iPod (Click Wheel) U2 Edition",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2004",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Click%20Wheel%29-u2/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2004-10-26",
+      "Codice Modello": "A1059"
+    }
+  },
+  {
+    "id": "iPod (Click Wheel)",
+    "name": "iPod (Click Wheel)",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2004",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Click%20Wheel%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2004-07-19",
+      "Codice Modello": "A1059"
+    }
+  },
+  {
+    "id": "iPod from HP Music Player",
+    "name": "iPod from HP Music Player",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2004",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20from%20HP%20Music%20Player/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2004-08-27",
+      "Codice Modello": "MP102, MP103"
+    }
+  },
+  {
+    "id": "iPod photo",
+    "name": "iPod photo",
+    "chip": "PortalPlayer PP5020",
+    "releaseYear": "2004",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20photo/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2004-10-26",
+      "Codice Modello": "A1099"
+    }
+  },
+  {
+    "id": "iPod (Dock Connector)-revisionA",
+    "name": "iPod (Dock Connector)",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2003",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Dock%20Connector%29-revisionA/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2003-09-08",
+      "Codice Modello": "A1040"
+    }
+  },
+  {
+    "id": "iPod (Dock Connector)",
+    "name": "iPod (Dock Connector)",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2003",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Dock%20Connector%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2003-04-28",
+      "Codice Modello": "A1040"
+    }
+  },
+  {
+    "id": "iPod (Scroll Wheel)-beck",
+    "name": "iPod (Scroll Wheel) Beck Edition",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Scroll%20Wheel%29-beck/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-12-11",
+      "Codice Modello": "M8541, M8709"
+    }
+  },
+  {
+    "id": "iPod (Scroll Wheel)-madonna",
+    "name": "iPod (Scroll Wheel) Madonna Edition",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Scroll%20Wheel%29-madonna/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-12-11",
+      "Codice Modello": "M8541, M8709"
+    }
+  },
+  {
+    "id": "iPod (Scroll Wheel)-nodoubt",
+    "name": "iPod (Scroll Wheel) No Doubt Edition",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Scroll%20Wheel%29-nodoubt/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-12-11",
+      "Codice Modello": "M8541, M8709"
+    }
+  },
+  {
+    "id": "iPod (Scroll Wheel)-tonyhawk",
+    "name": "iPod (Scroll Wheel) Tony Hawk Edition",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Scroll%20Wheel%29-tonyhawk/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-12-11",
+      "Codice Modello": "M8541, M8709"
+    }
+  },
+  {
+    "id": "iPod (Scroll Wheel)-revision",
+    "name": "iPod (Scroll Wheel)",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Scroll%20Wheel%29-revision/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-03-17",
+      "Codice Modello": "M8541, M8709"
+    }
+  },
+  {
+    "id": "iPod (Touch Wheel)-beck",
+    "name": "iPod (Touch Wheel) Beck Edition",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Touch%20Wheel%29-beck/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-12-11",
+      "Codice Modello": "A1019"
+    }
+  },
+  {
+    "id": "iPod (Touch Wheel)-madonna",
+    "name": "iPod (Touch Wheel) Madonna Edition",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Touch%20Wheel%29-madonna/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-12-11",
+      "Codice Modello": "A1019"
+    }
+  },
+  {
+    "id": "iPod (Touch Wheel)-nodoubt",
+    "name": "iPod (Touch Wheel) No Doubt Edition",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Touch%20Wheel%29-nodoubt/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-12-11",
+      "Codice Modello": "A1019"
+    }
+  },
+  {
+    "id": "iPod (Touch Wheel)-tonyhawk",
+    "name": "iPod (Touch Wheel) Tony Hawk Edition",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Touch%20Wheel%29-tonyhawk/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-12-11",
+      "Codice Modello": "A1019"
+    }
+  },
+  {
+    "id": "iPod (Touch Wheel)",
+    "name": "iPod (Touch Wheel)",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2002",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Touch%20Wheel%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2002-07-17",
+      "Codice Modello": "A1019"
+    }
+  },
+  {
+    "id": "iPod (Scroll Wheel)",
+    "name": "iPod (Scroll Wheel)",
+    "chip": "PortalPlayer PP5002",
+    "releaseYear": "2001",
+    "category": "iPod",
+    "imageURL": "https://img.appledb.dev/device@256/iPod%20%28Scroll%20Wheel%29/0.png",
+    "themeColor": "#FF2D55",
+    "specs": {
+      "Rilascio Ufficiale": "2001-11-10",
+      "Codice Modello": "M8513, M8541, M8697, M8709"
     }
   }
 ]
