@@ -1,20 +1,34 @@
 [
   {
-    "id": "apple-1",
-    "name": "Apple I",
-    "chip": "MOS 6502",
-    "releaseYear": "1976",
-    "category": "Mac",
-    "imageName": "apple_1",
-    "themeColor": "#C47B44",
-    "specs": {
-      "Rilascio Ufficiale": "Luglio 1976",
-      "Dismissione": "Settembre 1977",
-      "Prezzo di Lancio": "$666.66",
-      "Processore": "MOS Technology 6502 a 1 MHz (8-bit)",
-      "Sistema Operativo": "Apple Integer BASIC",
-      "Archiviazione": "Nessuna (Interfaccia a Cassette Opzionale)",
-      "Tastiera": "Nessuna (Fornita dall'utente, solitamente in legno)"
-    }
+    "chip" : "MOS 6502",
+    "name" : "Apple I",
+    "category" : "Mac",
+    "imageName" : "apple_1",
+    "themeColor" : "#C47B44",
+    "id" : "apple-1",
+    "specs" : {
+      "Prezzo di Lancio" : "$666.66",
+      "Tastiera" : "Nessuna (Fornita dall'utente, solitamente in legno)",
+      "Rilascio Ufficiale" : "Luglio 1976",
+      "Processore" : "MOS Technology 6502 a 1 MHz (8-bit)",
+      "Sistema Operativo" : "Apple Integer BASIC",
+      "Archiviazione" : "Nessuna (Interfaccia a Cassette Opzionale)",
+      "Dismissione" : "Settembre 1977"
+    },
+    "releaseYear" : "1976"
+  },
+  {
+    "chip" : "Essa asse",
+    "name" : "Dee",
+    "originalOS" : "Des",
+    "category" : "Mac",
+    "tagline" : "Se",
+    "imageName" : "dee",
+    "themeColor" : "#007AFF",
+    "id" : "dee",
+    "specs" : {
+
+    },
+    "releaseYear" : ""
   }
 ]
