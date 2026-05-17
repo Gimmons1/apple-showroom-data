@@ -1,0 +1,571 @@
+[
+  {
+    "id": "iPhone18,5",
+    "name": "iPhone 17e",
+    "chip": "A19",
+    "releaseYear": "2026",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2026",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone18,5"
+    }
+  },
+  {
+    "id": "iPad15,7",
+    "name": "iPad (A16) Wi-Fi",
+    "chip": "A16",
+    "releaseYear": "2025",
+    "category": "iPad",
+    "tagline": "Lovable. Drawable. Magical.",
+    "themeColor": "#4A90E2",
+    "specs": {
+      "Introduced": "2025",
+      "Architecture": "64-bit Apple Silicon",
+      "Biometrics": "Touch ID or Face ID",
+      "Connectivity": "Wi-Fi 6 / 6E, Bluetooth",
+      "Model ID": "iPad15,7"
+    }
+  },
+  {
+    "id": "iPad15,8",
+    "name": "iPad (A16) Wi-Fi + Cellular",
+    "chip": "A16",
+    "releaseYear": "2025",
+    "category": "iPad",
+    "tagline": "Lovable. Drawable. Magical.",
+    "themeColor": "#4A90E2",
+    "specs": {
+      "Introduced": "2025",
+      "Architecture": "64-bit Apple Silicon",
+      "Biometrics": "Touch ID or Face ID",
+      "Connectivity": "Wi-Fi 6 / 6E, Bluetooth",
+      "Model ID": "iPad15,8"
+    }
+  },
+  {
+    "id": "iPhone17,5",
+    "name": "iPhone 16e",
+    "chip": "A18",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2025",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED with Dynamic Island",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C (USB 2 speed)",
+      "Model ID": "iPhone17,5"
+    }
+  },
+  {
+    "id": "iPhone18,1",
+    "name": "iPhone 17 Pro",
+    "chip": "A19 Pro",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2025",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone18,1"
+    }
+  },
+  {
+    "id": "iPhone18,2",
+    "name": "iPhone 17 Pro Max",
+    "chip": "A19 Pro",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2025",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone18,2"
+    }
+  },
+  {
+    "id": "iPhone18,3",
+    "name": "iPhone 17",
+    "chip": "A19",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2025",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone18,3"
+    }
+  },
+  {
+    "id": "iPhone18,4",
+    "name": "iPhone Air",
+    "chip": "A19 Pro",
+    "releaseYear": "2025",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2025",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone18,4"
+    }
+  },
+  {
+    "id": "iPad13,20",
+    "name": "Unreleased iPad",
+    "chip": "A14",
+    "releaseYear": "2024",
+    "category": "iPad",
+    "tagline": "Lovable. Drawable. Magical.",
+    "themeColor": "#4A90E2",
+    "specs": {
+      "Introduced": "2024",
+      "Architecture": "64-bit Apple Silicon",
+      "Biometrics": "Touch ID or Face ID",
+      "Connectivity": "Wi-Fi 6 / 6E, Bluetooth",
+      "Model ID": "iPad13,20"
+    }
+  },
+  {
+    "id": "iPad13,21",
+    "name": "Unreleased iPad",
+    "chip": "A14",
+    "releaseYear": "2024",
+    "category": "iPad",
+    "tagline": "Lovable. Drawable. Magical.",
+    "themeColor": "#4A90E2",
+    "specs": {
+      "Introduced": "2024",
+      "Architecture": "64-bit Apple Silicon",
+      "Biometrics": "Touch ID or Face ID",
+      "Connectivity": "Wi-Fi 6 / 6E, Bluetooth",
+      "Model ID": "iPad13,21"
+    }
+  },
+  {
+    "id": "iPhone17,1",
+    "name": "iPhone 16 Pro",
+    "chip": "A18 Pro",
+    "releaseYear": "2024",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2024",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED, ProMotion 120Hz, Always-On",
+      "Camera": "48MP Main | 12MP Ultra Wide | 12MP 5x Telephoto",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C with USB 3 speed (up to 10Gb/s)",
+      "Material": "Aerospace-grade Titanium design",
+      "Model ID": "iPhone17,1"
+    }
+  },
+  {
+    "id": "iPhone17,2",
+    "name": "iPhone 16 Pro Max",
+    "chip": "A18 Pro",
+    "releaseYear": "2024",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2024",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED, ProMotion 120Hz, Always-On",
+      "Camera": "48MP Main | 12MP Ultra Wide | 12MP 5x Telephoto",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C with USB 3 speed (up to 10Gb/s)",
+      "Material": "Aerospace-grade Titanium design",
+      "Model ID": "iPhone17,2"
+    }
+  },
+  {
+    "id": "iPhone17,3",
+    "name": "iPhone 16",
+    "chip": "A18",
+    "releaseYear": "2024",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2024",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED with Dynamic Island",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C (USB 2 speed)",
+      "Model ID": "iPhone17,3"
+    }
+  },
+  {
+    "id": "iPhone17,4",
+    "name": "iPhone 16 Plus",
+    "chip": "A18",
+    "releaseYear": "2024",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2024",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED with Dynamic Island",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C (USB 2 speed)",
+      "Model ID": "iPhone17,4"
+    }
+  },
+  {
+    "id": "iPhone15,4",
+    "name": "iPhone 15",
+    "chip": "A16",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2023",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED with Dynamic Island",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C (USB 2 speed)",
+      "Model ID": "iPhone15,4"
+    }
+  },
+  {
+    "id": "iPhone15,5",
+    "name": "iPhone 15 Plus",
+    "chip": "A16",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2023",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED with Dynamic Island",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C (USB 2 speed)",
+      "Model ID": "iPhone15,5"
+    }
+  },
+  {
+    "id": "iPhone16,1",
+    "name": "iPhone 15 Pro",
+    "chip": "A17 Pro",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2023",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED, ProMotion 120Hz, Always-On",
+      "Camera": "48MP Main | 12MP Ultra Wide | 12MP 5x Telephoto",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C with USB 3 speed (up to 10Gb/s)",
+      "Material": "Aerospace-grade Titanium design",
+      "Model ID": "iPhone16,1"
+    }
+  },
+  {
+    "id": "iPhone16,2",
+    "name": "iPhone 15 Pro Max",
+    "chip": "A17 Pro",
+    "releaseYear": "2023",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2023",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED, ProMotion 120Hz, Always-On",
+      "Camera": "48MP Main | 12MP Ultra Wide | 12MP 5x Telephoto",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "USB-C with USB 3 speed (up to 10Gb/s)",
+      "Material": "Aerospace-grade Titanium design",
+      "Model ID": "iPhone16,2"
+    }
+  },
+  {
+    "id": "iPad13,18",
+    "name": "iPad (10th generation) Wi-Fi",
+    "chip": "A14",
+    "releaseYear": "2022",
+    "category": "iPad",
+    "tagline": "Lovable. Drawable. Magical.",
+    "themeColor": "#4A90E2",
+    "specs": {
+      "Introduced": "2022",
+      "Architecture": "64-bit Apple Silicon",
+      "Biometrics": "Touch ID or Face ID",
+      "Connectivity": "Wi-Fi 6 / 6E, Bluetooth",
+      "Model ID": "iPad13,18"
+    }
+  },
+  {
+    "id": "iPad13,19",
+    "name": "iPad (10th generation) Wi-Fi + Cellular",
+    "chip": "A14",
+    "releaseYear": "2022",
+    "category": "iPad",
+    "tagline": "Lovable. Drawable. Magical.",
+    "themeColor": "#4A90E2",
+    "specs": {
+      "Introduced": "2022",
+      "Architecture": "64-bit Apple Silicon",
+      "Biometrics": "Touch ID or Face ID",
+      "Connectivity": "Wi-Fi 6 / 6E, Bluetooth",
+      "Model ID": "iPad13,19"
+    }
+  },
+  {
+    "id": "iPhone14,6",
+    "name": "iPhone SE (3rd generation)",
+    "chip": "A15",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2022",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone14,6"
+    }
+  },
+  {
+    "id": "iPhone14,7",
+    "name": "iPhone 14",
+    "chip": "A15",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2022",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone14,7"
+    }
+  },
+  {
+    "id": "iPhone14,8",
+    "name": "iPhone 14 Plus",
+    "chip": "A15",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2022",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone14,8"
+    }
+  },
+  {
+    "id": "iPhone15,2",
+    "name": "iPhone 14 Pro",
+    "chip": "A16",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2022",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED with Dynamic Island",
+      "Camera": "48MP Main | 12MP Ultra Wide | 12MP 3x Telephoto",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone15,2"
+    }
+  },
+  {
+    "id": "iPhone15,3",
+    "name": "iPhone 14 Pro Max",
+    "chip": "A16",
+    "releaseYear": "2022",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2022",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED with Dynamic Island",
+      "Camera": "48MP Main | 12MP Ultra Wide | 12MP 3x Telephoto",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone15,3"
+    }
+  },
+  {
+    "id": "iPad12,1",
+    "name": "iPad (9th generation) Wi-Fi",
+    "chip": "A13",
+    "releaseYear": "2021",
+    "category": "iPad",
+    "tagline": "Lovable. Drawable. Magical.",
+    "themeColor": "#4A90E2",
+    "specs": {
+      "Introduced": "2021",
+      "Architecture": "64-bit Apple Silicon",
+      "Biometrics": "Touch ID or Face ID",
+      "Connectivity": "Wi-Fi 6 / 6E, Bluetooth",
+      "Model ID": "iPad12,1"
+    }
+  },
+  {
+    "id": "iPad12,2",
+    "name": "iPad (9th generation) Wi-Fi + Cellular",
+    "chip": "A13",
+    "releaseYear": "2021",
+    "category": "iPad",
+    "tagline": "Lovable. Drawable. Magical.",
+    "themeColor": "#4A90E2",
+    "specs": {
+      "Introduced": "2021",
+      "Architecture": "64-bit Apple Silicon",
+      "Biometrics": "Touch ID or Face ID",
+      "Connectivity": "Wi-Fi 6 / 6E, Bluetooth",
+      "Model ID": "iPad12,2"
+    }
+  },
+  {
+    "id": "iPhone14,2",
+    "name": "iPhone 13 Pro",
+    "chip": "A15",
+    "releaseYear": "2021",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2021",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone14,2"
+    }
+  },
+  {
+    "id": "iPhone14,3",
+    "name": "iPhone 13 Pro Max",
+    "chip": "A15",
+    "releaseYear": "2021",
+    "category": "iPhone",
+    "tagline": "Pro. Beyond.",
+    "themeColor": "#8A8B8C",
+    "specs": {
+      "Introduced": "2021",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone14,3"
+    }
+  },
+  {
+    "id": "iPhone14,4",
+    "name": "iPhone 13 mini",
+    "chip": "A15",
+    "releaseYear": "2021",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2021",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone14,4"
+    }
+  },
+  {
+    "id": "iPhone14,5",
+    "name": "iPhone 13",
+    "chip": "A15",
+    "releaseYear": "2021",
+    "category": "iPhone",
+    "tagline": "A total powerhouse.",
+    "themeColor": "#A7C7E7",
+    "specs": {
+      "Introduced": "2021",
+      "Architecture": "64-bit Apple Silicon",
+      "Display": "Super Retina XDR OLED display",
+      "Camera": "Advanced Dual Camera with Photonic Engine",
+      "Biometrics": "Face ID via Secure Enclave",
+      "Battery": "Built-in rechargeable lithium-ion",
+      "Connector": "Lightning port",
+      "Model ID": "iPhone14,5"
+    }
+  }
+]
