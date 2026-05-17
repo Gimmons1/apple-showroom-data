@@ -21,17 +21,17 @@ def build_apple_database():
         release_date = released[0] if isinstance(released, list) and len(released) > 0 else (released if isinstance(released, str) else "")
         year = release_date[:4] if len(release_date) >= 4 else "Sconosciuto"
         
-        chip = str(item.get("soc", "Apple / Intel"))
+        # 🚨 NESSUN LIMITE DI ANNO! Prendiamo TUTTO dal 1984 a oggi.
+        
+        chip = str(item.get("soc", "Apple / Intel / Moto"))
         category = device_type
         
         # Colori dinamici per il Liquid Glass
         theme_color = "#8A8B8C" if "iPhone" in name else ("#007AFF" if "Mac" in name else "#FF2D55")
         
-        # Costruttore URL Immagine (Puoi poi personalizzarlo)
+        # Costruttore URL Immagine
         identifier = item.get("identifier", "")
         ident_str = identifier[0] if isinstance(identifier, list) else str(identifier)
-        
-        # Creiamo un URL generico. Se non esiste, SwiftUI userà un'icona elegante al suo posto.
         image_url = f"https://img.appledb.dev/device@{ident_str}/0.png"
         
         specs = {
@@ -50,6 +50,7 @@ def build_apple_database():
             "specs": specs
         })
         
+    # Ordiniamo dal più recente al più antico
     apple_devices.sort(key=lambda x: str(x["releaseYear"]), reverse=True)
     
     with open("apple_database.json", "w", encoding="utf-8") as f:
