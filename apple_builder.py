@@ -2,6 +2,7 @@ import json
 import requests
 import urllib.parse
 
+
 def get_commercial_specs(name, key, chip, year):
     # Specifiche di base ereditate da AppleDB
     specs = {
