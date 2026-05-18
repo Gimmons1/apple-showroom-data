@@ -3,7 +3,7 @@ name: Trova Immagini Automaticamente
 on:
   push:
     paths:
-      - 'apple_database.json' # Si attiva solo quando il database viene aggiornato
+      - 'apple_database.json'
   workflow_dispatch:
 
 permissions:
@@ -17,12 +17,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Configurazione Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Installa dipendenze
-        run: pip install duckduckgo-search
+        run: |
+          python -m pip install --upgrade pip
+          pip install duckduckgo-search
 
       - name: Cerca nuove immagini
         run: python apple_image_finder.py
