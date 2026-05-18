@@ -1,0 +1,31 @@
+name: Ottimizzazione Database Apple
+
+on:
+  push:
+    paths:
+      - 'apple_database.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  format_and_clean:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v4
+
+      - name: Configurazione Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Esecuzione Pulizia e Ordinamento Database
+        run: python apple_db_cleaner.py
+
+      - name: Salva modifiche (se presenti)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "✨ Auto-Format: Ottimizzazione e ordinamento JSON"
+          file_pattern: "apple_database.json"
