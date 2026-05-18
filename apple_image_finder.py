@@ -6,7 +6,7 @@ from duckduckgo_search import DDGS
 DB_FILE = "apple_database.json"
 
 def find_images_for_devices():
-    print("🔍 Avvio ricerca automatica immagini...")
+    print("🔍 Avvio ricerca automatica immagini avanzata...")
     
     if not os.path.exists(DB_FILE):
         print(f"Errore: {DB_FILE} non trovato.")
@@ -19,28 +19,45 @@ def find_images_for_devices():
     updates = 0
 
     for device in devices:
-        # Cerca solo se non ha un'immagine, non ha una proposta e non ha già fallito in precedenza
-        if not device.get("imageName") and not device.get("proposedImageUrl") and not device.get("imageSearchFailed"):
-            query = f"{device['name']} apple product png transparent background"
-            print(f"Cerco immagine per: {device['name']}...")
+        # Cerca solo se non ha un'immagine definitiva, non ha proposte e non ha fallito di recente
+        if not device.get("imageName") and not device.get("proposedImageUrls") and not device.get("proposedImageUrl") and not device.get("imageSearchFailed"):
+            name = device['name']
+            print(f"Cerco immagini per: {name}...")
+            
+            # Ampliamo le parole chiave per avere più possibilità di trovare immagini buone
+            queries = [
+                f"{name} apple png transparent background",
+                f"{name} apple device png",
+                f"Apple {name} computer white background"
+            ]
+            
+            found_urls = []
             
             try:
-                results = list(ddgs.images(query, max_results=1))
-                if results:
-                    image_url = results[0]['image']
-                    device["proposedImageUrl"] = image_url
-                    # Se in precedenza aveva fallito ma ora l'ha trovata, rimuoviamo il flag
+                for q in queries:
+                    if len(found_urls) >= 3: # Vogliamo proporre al massimo 3 immagini
+                        break
+                    
+                    results = list(ddgs.images(q, max_results=3))
+                    for res in results:
+                        if res['image'] not in found_urls:
+                            found_urls.append(res['image'])
+                        if len(found_urls) >= 3:
+                            break
+                    time.sleep(1) # Pausa per non bloccare il motore di ricerca
+                
+                if found_urls:
+                    device["proposedImageUrls"] = found_urls
                     if "imageSearchFailed" in device:
                         del device["imageSearchFailed"]
-                    print(f"✅ Trovata: {image_url}")
+                    print(f"✅ Trovate {len(found_urls)} immagini per {name}")
                 else:
                     device["imageSearchFailed"] = True
-                    print(f"⚠️ Nessuna immagine trovata per {device['name']}")
+                    print(f"⚠️ Nessuna immagine trovata per {name}")
                 
                 updates += 1
-                time.sleep(2)
             except Exception as e:
-                print(f"❌ Errore ricerca per {device['name']}: {e}")
+                print(f"❌ Errore ricerca per {name}: {e}")
                 device["imageSearchFailed"] = True
                 updates += 1
 
