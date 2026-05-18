@@ -1,0 +1,41 @@
+[
+  {
+    "category" : "Mac",
+    "chip" : "MOS Technology 6502",
+    "originalOS" : "Apple DOS 3.2 (initially optional; later included)",
+    "id" : "apple-ii-plus",
+    "imageName" : "apple_ii_plus",
+    "specs" : {
+      "Cassette Ports" : "1 - in, 1 - out at 1500 bps",
+      "Colors" : "Putty",
+      "Text Display" : "40 characters per row, 24 rows",
+      "Maximum Memory" : "48 KB or 64 KB with Language Card",
+      "Storage" : "None",
+      "Display Connection" : "1 - RCA for composite video output",
+      "Game Port" : "1 - internal 16-pin GAME I\/O",
+      "Built-in Memory" : "None",
+      "Number of Cores" : "1",
+      "Expansion Slots" : "8 - 50-pin Apple II peripheral",
+      "Firmware Languages in Memory" : "Applesoft BASIC",
+      "Media" : "Optional Cassette Interface or Disk II floppy drive",
+      "Processor Speed" : "1 MHz",
+      "Support Status" : "Obsolete",
+      "Minimum Memory Speed" : "350 ns",
+      "Initial Price" : "$1195 (16 KB memory) $1295 (32 KB memory) $1395 (48 KB memory)",
+      "Memory Slots" : "24 sockets in 3 rows for 16-pin 4 KB (4096, 2104 type) or 16 KB (4116, 2116 type) modules",
+      "Audio Out" : "1 - Built-in 8 ohm speaker",
+      "Line Voltage" : "110 or 110\/220V AC",
+      "Weight and Dimensions" : "11.5 lbs., 4.25\" H X 15.25\" W X 18\" D",
+      "External Resolution" : "280 x 192 (6 colors) or 40 x 48 (16 colors)",
+      "Read-only Memory" : "12 KB",
+      "System Bus" : "1 MHz",
+      "Keyboard" : "Built-in 52-key uppercase keyboard",
+      "Order Number" : "A2S1016 (16 KB memory) A2S1032 (32 KB memory) A2S1048 (48 KB memory)",
+      "Architecture" : "8-bit"
+    },
+    "releaseYear" : "1979",
+    "themeColor" : "#E6D8B6",
+    "discontinuedYear" : "1982",
+    "name" : "Apple II Plus"
+  }
+]
