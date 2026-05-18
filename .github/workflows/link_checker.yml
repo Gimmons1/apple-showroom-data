@@ -1,0 +1,30 @@
+name: Controllo Salute Link Immagini
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Gira ogni 2 ore
+  workflow_dispatch: # Permette di avviarlo anche a mano
+
+permissions:
+  contents: write
+
+jobs:
+  check_links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v4
+
+      - name: Configurazione Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Esegui controllo link
+        run: python apple_link_checker.py
+
+      - name: Salva modifiche se ci sono link rotti
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🚨 Auto-Fix: Rimossi link immagini rotti"
+          file_pattern: "apple_database.json"
