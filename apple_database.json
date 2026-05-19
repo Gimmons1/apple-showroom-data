@@ -249,7 +249,8 @@
       "A3S0256",
       "A3S1256"
     ],
-    "imageName": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple3.jpg"
+    "imageName": null,
+    "imageSearchFailed": true
   },
   {
     "chip": "MOS Technology 6502",
