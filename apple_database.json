@@ -35,7 +35,8 @@
       "Architecture": "8-bit",
       "Keyboard": "Built-in 52-key uppercase keyboard"
     },
-    "imageName": "https://raw.githubusercontent.com/Gimmons1/apple-showroom-data/main/images/apple-ii-plus.jpg"
+    "imageName": null,
+    "imageSearchFailed": true
   },
   {
     "chip": "Motorola 68000",
